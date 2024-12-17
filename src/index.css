@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Encode+Sans+Expanded:wght@400;500;700;800&display=swap");
+:root {
+  --DarkColor: #121212;
+  --Gray1: #282828;
+  --Gray2: #3f3f3f;
+  --PrimaryColor: #4bc729;
+  --PrimaryColor2: #b8e7a5;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Encode Sans Expanded", sans-serif;
+  color: #ffffff;
+}
